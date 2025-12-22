@@ -6,7 +6,7 @@ Me chamo Gabriel Gomes Ortiz, tenho 17 anos. Estou cursando o **técnico integra
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -68,7 +68,7 @@ Me chamo Gabriel Gomes Ortiz, tenho 17 anos. Estou cursando o **técnico integra
 <br/>
 <br/>
 
-### 📊 Estatísticas no GitHub
+### Estatísticas no GitHub
 
 <p>
   <img 
