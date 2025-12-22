@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Gabriel Gomes Ortiz
+# Gabriel Gomes Ortiz
 
 **`Estudante e aspirante a desenvolvedor`**
 
@@ -48,14 +48,6 @@ Me chamo Gabriel Gomes Ortiz, tenho 17 anos e sou natural do Paraná. Estou curs
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
