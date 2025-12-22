@@ -73,12 +73,6 @@ Me chamo Gabriel Gomes Ortiz, tenho 17 anos. Estou cursando o **técnico integra
 <p>
   <img 
       align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api?username=GabrielGomesOrtiz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-      align="left" 
       alt="Top Linguagens" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGomesOrtiz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
