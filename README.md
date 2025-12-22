@@ -2,7 +2,7 @@
 
 **`Estudante`**
 
-Me chamo Gabriel Gomes Ortiz, tenho 17 anos e sou natural do Paraná. Estou cursando o técnico integrado em informática na UTFPR – Campo Mourão. Sou muito curioso e apaixonado por tecnologia, sempre buscando aprender e criar meus próprios projetos, mesmo sendo iniciante na programação.
+Me chamo Gabriel Gomes Ortiz, tenho 17 anos. Estou cursando o **técnico integrado em informática na UTFPR – Campo Mourão**. Sou curioso e gosto de tecnologia. Apesar de ainda ser iniciante, estou sempre criando **pequenos projetos pessoais**, estudando linguagens e ferramentas, e procurando entender **como as coisas funcionam de verdade** na programação.
 
 ---
 
@@ -40,19 +40,49 @@ Me chamo Gabriel Gomes Ortiz, tenho 17 anos e sou natural do Paraná. Estou curs
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
 
 <br/>
 <br/>
 
-### 📊 Estatística:
+### 📊 Estatísticas no GitHub
 
 <p>
-
-
   <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      src="https://github-readme-stats.vercel.app/api?username=GabrielGomesOrtiz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+  <img 
+      align="left" 
+      alt="Top Linguagens" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielGomesOrtiz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+---
