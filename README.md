@@ -1,6 +1,6 @@
 # Gabriel Gomes Ortiz
 
-**`Estudante e aspirante a desenvolvedor`**
+**`Estudante`**
 
 Me chamo Gabriel Gomes Ortiz, tenho 17 anos e sou natural do Paraná. Estou cursando o técnico integrado em informática na UTFPR – Campo Mourão. Sou muito curioso e apaixonado por tecnologia, sempre buscando aprender e criar meus próprios projetos, mesmo sendo iniciante na programação.
 
@@ -61,7 +61,7 @@ Me chamo Gabriel Gomes Ortiz, tenho 17 anos e sou natural do Paraná. Estou curs
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Estatística:
 
 <p>
 
