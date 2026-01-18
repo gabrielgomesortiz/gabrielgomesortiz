@@ -10,6 +10,8 @@ Atualmente, desenvolvo **pequenos projetos pessoais e acadêmicos**, estudando l
 
 ---
 
+---
+
 ###  Linguagens e Tecnologias
 
 Tecnologias que venho estudando e aplicando gradualmente em projetos acadêmicos e pessoais:
