@@ -2,11 +2,17 @@
 
 **`Estudante`**
 
-Me chamo Gabriel Gomes Ortiz, tenho 17 anos. Estou cursando o **técnico integrado em informática na UTFPR – Campo Mourão**. Sou curioso e gosto de tecnologia. Apesar de ainda ser iniciante, estou sempre criando **pequenos projetos pessoais**, estudando linguagens e ferramentas, e procurando entender **como as coisas funcionam de verdade** na programação.
+Me chamo **Gabriel Gomes Ortiz**, tenho 17 anos e curso o **Técnico Integrado em Informática na UTFPR – Campus Campo Mourão**.
+
+Tenho interesse em **desenvolvimento de sistemas e programação**, com foco em entender como as tecnologias funcionam na prática.
+
+Atualmente, desenvolvo **pequenos projetos pessoais e acadêmicos**, estudando linguagens e ferramentas voltadas ao desenvolvimento web e backend, sempre buscando evoluir tecnicamente e aprender de forma consistente.
 
 ---
 
-### Linguagens e Tecnologias
+###  Linguagens e Tecnologias
+
+Tecnologias que venho estudando e aplicando gradualmente em projetos acadêmicos e pessoais:
 
 <img 
     align="left" 
@@ -31,6 +37,22 @@ Me chamo Gabriel Gomes Ortiz, tenho 17 anos. Estou cursando o **técnico integra
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
@@ -65,6 +87,4 @@ Me chamo Gabriel Gomes Ortiz, tenho 17 anos. Estou cursando o **técnico integra
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 
-<br/>
-<br/>
-
+<br clear="left"/>
