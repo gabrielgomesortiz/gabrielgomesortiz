@@ -16,6 +16,7 @@ Atualmente curso o terceiro ano do Técnico Integrado em Informática na UTFPR-C
     <img src="https://img.shields.io/badge/GitHub-Gabriel Ortiz-181717?style=for-the-badge&logo=github" />
   </a>
 
+
   <a href="mailto:gabrielgomesortiz@gmail.com">
   <img src="https://img.shields.io/badge/Email-gabrielgomesortiz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
