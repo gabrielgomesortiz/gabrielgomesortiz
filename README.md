@@ -7,6 +7,7 @@ Atualmente curso o terceiro ano do Técnico Integrado em Informática na UTFPR-C
 
 
 </div>
+
 ---
 
 ## 🌐 Onde me encontrar:
