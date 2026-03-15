@@ -1,65 +1,61 @@
-# Gabriel Gomes Ortiz
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=1AF727&width=435&lines=+Ol%C3%A1+%F0%9F%91%8B%2CEu+sou+Gabriel+Ortiz)](https://git.io/typing-svg)
 
-**Estudante**
+## 💻 Sobre mim:
+<div align="center">
 
-Me chamo **Gabriel Gomes Ortiz**, tenho 17 anos e curso o **Técnico Integrado em Informática na UTFPR – Campus Campo Mourão**.
-
-Tenho interesse em **desenvolvimento de sistemas e programação**, com foco em entender como as tecnologias funcionam na prática.
-
-Atualmente, desenvolvo **pequenos projetos pessoais e acadêmicos**, estudando linguagens e ferramentas voltadas ao desenvolvimento de sistemas, incluindo aplicações web (frontend e backend).
+Atualmente curso o terceiro ano do Técnico Integrado em Informática na UTFPR-CM. Tenho grande interesse em programação e gosto de exercitar minha lógica por meio da criação e análise de algoritmos desafiadores.
 
 
-### Contato
-
-- Email: gabrielgomesortiz@alunos.utfpr.edu.br  
-- GitHub: https://github.com/gabrielgomesortiz  
-
+</div>
 ---
 
-## Linguagens e Tecnologias
+## 🌐 Onde me encontrar:
 
-Tecnologias que venho estudando e aplicando gradualmente em projetos acadêmicos e pessoais:
+<p align="left">
+  <a href="https://github.com/gabrielgomesortiz">
+    <img src="https://img.shields.io/badge/GitHub-Gabriel Ortiz-181717?style=for-the-badge&logo=github" />
+  </a>
 
-<img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-
-<img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-
-<img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
-
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
-
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-
-<img align="left" alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
-
-<br clear="left"/>
+  <a href="mailto:gabrielgomesortiz@gmail.com">
+  <img src="https://img.shields.io/badge/Email-gabrielgomesortiz@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 ---
+## 🛠️ Tech Stack:
 
-## Projetos
+### Frontend
+<div align="center">
 
-Os projetos principais estão fixados logo abaixo.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+</div>
 
-## Foco atual de estudos
+### Backend
+<div align="center">
 
-- JavaScript e lógica de programação  
-- Desenvolvimento backend com Node.js  
-- Python para automação de tarefas e uso da biblioteca Pandas  
-- Aprofundamento em banco de dados relacionais
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+### DevOps & Tools
+<div align="center">
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+ 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victor-Hugo-Freire/Victor-Hugo-Freire/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Victor-Hugo-Freire/Victor-Hugo-Freire/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Victor-Hugo-Freire/Victor-Hugo-Freire/output/github-contribution-grid-snake.svg">
+</picture>
