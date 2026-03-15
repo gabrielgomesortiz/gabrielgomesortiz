@@ -1,11 +1,8 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=1AF727&width=435&lines=+Ol%C3%A1+%F0%9F%91%8B%2CEu+sou+Gabriel+Ortiz)](https://git.io/typing-svg)
-
 ## 💻 Sobre mim:
 <div align="center">
 
 Atualmente curso o terceiro ano do Técnico Integrado em Informática na UTFPR-CM. Tenho grande interesse em programação e gosto de exercitar minha lógica por meio da criação e análise de algoritmos desafiadores.
-
-
 </div>
 
 ---
@@ -54,6 +51,7 @@ Atualmente curso o terceiro ano do Técnico Integrado em Informática na UTFPR-C
 
 </div>
 
+---
  
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Victor-Hugo-Freire/Victor-Hugo-Freire/output/github-contribution-grid-snake-dark.svg">
